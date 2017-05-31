@@ -1,5 +1,5 @@
 class Dice
-  
+  #comment
 
   def initialize(sides)
     @sides = sides
